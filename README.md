@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishnuKranthReddy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=VishnuKranthReddy&theme=tokyonight" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKranthReddy&layout=compact&theme=tokyonight" />
 </p>
 
@@ -45,9 +45,9 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: [tallavishnukranthreddy@example.com](mailto:tallavishnukranthreddy@example.com)
-- 💼 LinkedIn: [linkedin.com/in/vishnukranthreddy](https://linkedin.com/in/vishnukranthreddy)
-- 🌐 Portfolio: [vishnukranthreddy.github.io](https://vishnukranthreddy.github.io)
+- 📧 Email: [tallavishnukranthreddy@gmail.com](mailto:vishnukranthreddy13698@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vishnukranthreddy](https://www.linkedin.com/in/tallavishnukranthreddy)
+- 🌐 Portfolio: [vishnukranthreddy.github.io](https://vishnukranthreddy.github.io/portfolio/)
 
 ---
 
