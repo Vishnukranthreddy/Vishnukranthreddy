@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi there! I'm Talla Vishnu Kranth Reddy
 
-<!--
-**Vishnukranthreddy/Vishnukranthreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Engineer | Innovator**  
+🚀 Passionate about building impactful tech solutions using AI, Web, and Embedded Systems  
+📍 Based in India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🧠 I enjoy solving real-world problems through code.
+- 🔧 I work with Python, C/C++, JavaScript, and VHDL/Verilog.
+- 📊 I'm interested in Data Science, Machine Learning, Web Dev & Quantum Computing.
+- 🛠️ Hands-on experience with tools like Qiskit, Power BI, Docker, and Git.
+- 🌱 Currently exploring: Deep Learning, NLP, and System Design.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `C/C++` `JavaScript` `SQL` `HTML/CSS` `VHDL/Verilog`
+
+**Tools & Frameworks:**  
+`React.js` `Node.js` `Flask` `Express.js` `TensorFlow` `PyTorch` `Qiskit`
+
+**Database & Cloud:**  
+`MySQL` `MongoDB` `Firebase` `AWS` `Power BI`
+
+**Other Skills:**  
+`Git & GitHub` `Docker` `Figma` `Packet Tracer` `MATLAB`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishnuKranthReddy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=VishnuKranthReddy&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKranthReddy&layout=compact&theme=tokyonight" />
+</p>
+
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [tallavishnukranthreddy@example.com](mailto:tallavishnukranthreddy@example.com)
+- 💼 LinkedIn: [linkedin.com/in/vishnukranthreddy](https://linkedin.com/in/vishnukranthreddy)
+- 🌐 Portfolio: [vishnukranthreddy.github.io](https://vishnukranthreddy.github.io)
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
